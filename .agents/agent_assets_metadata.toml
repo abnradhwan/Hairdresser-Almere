@@ -1,0 +1,26 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "UWws7RMwMTc8celEkC52q"
+uri = "file://artifacts/diyar-kapper/src/assets/hero.png"
+type = "image"
+title = "Classic barbershop interior"
+
+[[generated]]
+id = "pToWLtilHiZgxuMPEN3XE"
+uri = "file://artifacts/diyar-kapper/src/assets/gallery-1.png"
+type = "image"
+title = "Vintage barber tools"
+
+[[generated]]
+id = "IBMZTzL2XWEGSpYn8Gk7k"
+uri = "file://artifacts/diyar-kapper/src/assets/gallery-2.png"
+type = "image"
+title = "Barber at work"
+
+[[generated]]
+id = "G3_NU-Y4RPOAucdSp3Hd1"
+uri = "file://artifacts/diyar-kapper/src/assets/gallery-3.png"
+type = "image"
+title = "Classic barber chair"
